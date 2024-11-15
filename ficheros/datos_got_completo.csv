@@ -1,0 +1,48 @@
+personaje_id,nombre_personaje,edad,rol,estado,casa_id,territorio,nombre_casa,lema,escudo,batalla_id,nombre,fecha,lugar,reino,resultado,clima
+15,Daenerys Targaryen,59,Caballero,Muerto,8,Highgarden,Tyrell,Growing Strong,Rosa,2,Batalla de los Bastardos,20240216,Storm's End,Tierras de la Corona,Derrota,Nieve intensa
+24,Tyrion Lannister,20,Rey,Muerto,8,Highgarden,Tyrell,Growing Strong,Rosa,2,Batalla de los Bastardos,20240216,Storm's End,Tierras de la Corona,Derrota,Nieve intensa
+21,Theon Greyjoy,20,Consejero,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,2,Batalla de los Bastardos,20240216,Storm's End,Tierras de la Corona,Derrota,Nieve intensa
+25,Bronn,49,Guerrero,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,2,Batalla de los Bastardos,20240216,Storm's End,Tierras de la Corona,Derrota,Nieve intensa
+40,Sansa Stark,26,Guerrero,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,2,Batalla de los Bastardos,20240216,Storm's End,Tierras de la Corona,Derrota,Nieve intensa
+32,Renly Baratheon,46,Guerrero,Muerto,1,Winterfell,Stark,Winter is Coming,Lobo,2,Batalla de los Bastardos,20240216,Storm's End,Tierras de la Corona,Derrota,Nieve intensa
+47,Stannis Baratheon,58,Rey,Muerto,2,Casterly Rock,Lannister,Hear Me Roar,León,2,Batalla de los Bastardos,20240216,Storm's End,Tierras de la Corona,Derrota,Nieve intensa
+24,Tyrion Lannister,20,Rey,Muerto,8,Highgarden,Tyrell,Growing Strong,Rosa,5,Batalla en el Muro,20230611,The Eyrie,Norte,Derrota,Tormenta
+25,Bronn,49,Guerrero,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,5,Batalla en el Muro,20230611,The Eyrie,Norte,Derrota,Tormenta
+3,Robb Stark,44,Lord,Muerto,5,Storm's End,Baratheon,Ours is the Fury,Ciervo,5,Batalla en el Muro,20230611,The Eyrie,Norte,Derrota,Tormenta
+4,Tyrion Lannister,63,Reina,Vivo,6,Dorne,Martell,"Unbowed Unbent Unbroken",Sol y lanza,5,Batalla en el Muro,20230611,The Eyrie,Norte,Derrota,Tormenta
+29,Eddard Stark,37,Espía,Muerto,3,Dragonstone,Targaryen,Fire and Blood,Dragón,5,Batalla en el Muro,20230611,The Eyrie,Norte,Derrota,Tormenta
+14,Daenerys Targaryen,22,Caballero,Muerto,4,Pyke,Greyjoy,We Do Not Sow,Kraken,5,Batalla en el Muro,20230611,The Eyrie,Norte,Derrota,Tormenta
+24,Tyrion Lannister,20,Rey,Muerto,8,Highgarden,Tyrell,Growing Strong,Rosa,6,Batalla de Hardhome,20221128,Winterfell,Tierras de la Corona,Derrota,Soleado
+46,Jorah Mormont,66,Caballero,Vivo,7,The Eyrie,Arryn,As High as Honor,Halcón,6,Batalla de Hardhome,20221128,Winterfell,Tierras de la Corona,Derrota,Soleado
+48,Robb Stark,64,Lord,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,6,Batalla de Hardhome,20221128,Winterfell,Tierras de la Corona,Derrota,Soleado
+28,Tyrion Lannister,64,Rey,Vivo,6,Dorne,Martell,"Unbowed Unbent Unbroken",Sol y lanza,6,Batalla de Hardhome,20221128,Winterfell,Tierras de la Corona,Derrota,Soleado
+18,Cersei Lannister,31,Guerrero,Vivo,1,Winterfell,Stark,Winter is Coming,Lobo,6,Batalla de Hardhome,20221128,Winterfell,Tierras de la Corona,Derrota,Soleado
+7,Tyrion Lannister,65,Asesino,Muerto,4,Pyke,Greyjoy,We Do Not Sow,Kraken,6,Batalla de Hardhome,20221128,Winterfell,Tierras de la Corona,Derrota,Soleado
+35,Bronn,61,Asesino,Muerto,4,Pyke,Greyjoy,We Do Not Sow,Kraken,6,Batalla de Hardhome,20221128,Winterfell,Tierras de la Corona,Derrota,Soleado
+30,Bronn,37,Asesino,Muerto,8,Highgarden,Tyrell,Growing Strong,Rosa,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+21,Theon Greyjoy,20,Consejero,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+46,Jorah Mormont,66,Caballero,Vivo,7,The Eyrie,Arryn,As High as Honor,Halcón,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+4,Tyrion Lannister,63,Reina,Vivo,6,Dorne,Martell,"Unbowed Unbent Unbroken",Sol y lanza,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+12,Theon Greyjoy,24,Espía,Muerto,6,Dorne,Martell,"Unbowed Unbent Unbroken",Sol y lanza,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+6,Sansa Stark,43,Guerrero,Muerto,3,Dragonstone,Targaryen,Fire and Blood,Dragón,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+33,Arya Stark,33,Rey,Vivo,3,Dragonstone,Targaryen,Fire and Blood,Dragón,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+41,Tyrion Lannister,50,Lord,Vivo,3,Dragonstone,Targaryen,Fire and Blood,Dragón,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+35,Bronn,61,Asesino,Muerto,4,Pyke,Greyjoy,We Do Not Sow,Kraken,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+43,Cersei Lannister,45,Guerrero,Muerto,4,Pyke,Greyjoy,We Do Not Sow,Kraken,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+8,Tyrion Lannister,44,Caballero,Muerto,2,Casterly Rock,Lannister,Hear Me Roar,León,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+17,Daenerys Targaryen,28,Consejero,Muerto,2,Casterly Rock,Lannister,Hear Me Roar,León,1,Batalla de Winterfell,20220907,Pyke,Reino del Oeste,Derrota,Tormenta
+30,Bronn,37,Asesino,Muerto,8,Highgarden,Tyrell,Growing Strong,Rosa,4,Batalla de Blackwater,20231226,Dragonstone,Tierras de la Corona,Derrota,Nublado
+46,Jorah Mormont,66,Caballero,Vivo,7,The Eyrie,Arryn,As High as Honor,Halcón,4,Batalla de Blackwater,20231226,Dragonstone,Tierras de la Corona,Derrota,Nublado
+48,Robb Stark,64,Lord,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,4,Batalla de Blackwater,20231226,Dragonstone,Tierras de la Corona,Derrota,Nublado
+5,Jaime Lannister,31,Caballero,Muerto,1,Winterfell,Stark,Winter is Coming,Lobo,4,Batalla de Blackwater,20231226,Dragonstone,Tierras de la Corona,Derrota,Nublado
+7,Tyrion Lannister,65,Asesino,Muerto,4,Pyke,Greyjoy,We Do Not Sow,Kraken,4,Batalla de Blackwater,20231226,Dragonstone,Tierras de la Corona,Derrota,Nublado
+36,Tyrion Lannister,30,Lord,Vivo,4,Pyke,Greyjoy,We Do Not Sow,Kraken,4,Batalla de Blackwater,20231226,Dragonstone,Tierras de la Corona,Derrota,Nublado
+50,Arya Stark,46,Consejero,Muerto,7,The Eyrie,Arryn,As High as Honor,Halcón,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+5,Jaime Lannister,31,Caballero,Muerto,1,Winterfell,Stark,Winter is Coming,Lobo,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+13,Bronn,28,Lord,Muerto,1,Winterfell,Stark,Winter is Coming,Lobo,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+29,Eddard Stark,37,Espía,Muerto,3,Dragonstone,Targaryen,Fire and Blood,Dragón,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+34,Jon Snow,52,Espía,Muerto,4,Pyke,Greyjoy,We Do Not Sow,Kraken,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+36,Tyrion Lannister,30,Lord,Vivo,4,Pyke,Greyjoy,We Do Not Sow,Kraken,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+8,Tyrion Lannister,44,Caballero,Muerto,2,Casterly Rock,Lannister,Hear Me Roar,León,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+22,Robb Stark,18,Reina,Vivo,2,Casterly Rock,Lannister,Hear Me Roar,León,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
+31,Tyrion Lannister,55,Guerrero,Vivo,2,Casterly Rock,Lannister,Hear Me Roar,León,3,Asedio de Mereen,20220812,Dragonstone,Reino del Oeste,Inconcluso,Nieve intensa
